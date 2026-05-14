@@ -168,7 +168,8 @@ http://localhost:2026/
 
 ## 🔐 Login Page
 
-<img width="1918" height="1044" alt="image" src="https://github.com/user-attachments/assets/08709dca-cc7f-4d4e-bf7d-a94eca832bee" />
+<img width="1920" height="987" alt="image" src="https://github.com/user-attachments/assets/7b24328a-ea79-470b-ae85-d63022455757" />
+
 
 
 ---
